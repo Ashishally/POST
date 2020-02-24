@@ -28,7 +28,7 @@ class ViewController: UIViewController {
     }
     
 }
-
+// extension
 extension ViewController {
     
     func setUpPostMethod() {
